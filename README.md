@@ -1,4 +1,7 @@
 # Fitnessx-appointment-app
+
+First of all this was done in ANGULAR
+
 An app I created which catered for meal plan, location and fitness appointment.
 
 1.First off, you require Visual studio code with these updates to run this app:
